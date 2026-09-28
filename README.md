@@ -1,5 +1,9 @@
 # Day 11 — Controlled Agent Security (2026)
 
+- **Họ và tên:** Phạm Thành Đạt
+- **MSSV:** 2A202602721
+- **Repo:** `K4-L3B-Day11-PhamThanhDat-2A202602721-Guardrails-HITL-Responsible-AI`
+
 > 👤 **Hình thức:** bài tập **cá nhân** (1 người / 1 MSSV).  
 > 🎯 **Mục tiêu:** xây **Blue** (phòng thủ), rồi red-team **Red** + **Red Advance**.  
 > ✅ Làm theo **Checkpoint 1 → 5** trong [`CHECKPOINTS.md`](CHECKPOINTS.md) · nộp theo [`SUBMISSION.md`](SUBMISSION.md).
